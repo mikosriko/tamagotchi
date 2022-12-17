@@ -2,4 +2,4 @@
 One of my OpenFrameworks assignments.
 
 ## Instructions
-Open it with Visual Studio, or open the "tamagotchi-debug.exe" file in the 'bin' folder.
+Open the 'bin' folder to run the "tamagotchi-debug.exe" file.
